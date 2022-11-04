@@ -1,4 +1,4 @@
-# Flexar-2L-Sticker-DIY-Actuator
+# Sticker Actuator
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
